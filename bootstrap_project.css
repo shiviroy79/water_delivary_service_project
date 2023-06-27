@@ -1,0 +1,95 @@
+/* .popupform{
+    visibility: hidden;
+} */
+
+
+#position{
+    justify-content: space-evenly;
+    top: 20%;
+}
+#space{
+    justify-content: space-around;
+    gap:40px;
+}
+.color{
+    color:rgb(34, 110, 192);
+}
+
+.text{
+    width: 70%;
+    height: 70%;
+
+}
+.text{
+    font-size: 20px;
+}
+/* #bt a{
+    color:white;
+     width:20px ;
+    height:18px ; 
+    border-radius:5px ;
+    background-color: blue;
+    text-decoration: none;
+    padding:8px 5px;
+    
+
+    
+    
+} */
+/* #btn a{
+    color: aliceblue;
+    text-decoration: none;
+} */
+
+
+/* .sbtn{ */
+
+/* padding: 0.75rem 0.375rem; */
+/* height: 37px;
+width: 73px;
+background-color: rgb(68, 68, 232);
+color: white;
+text-align: center;
+border-radius: 5px solid white;
+
+
+
+}
+
+.sbtn a{
+    color: white;
+    text-decoration: none;
+
+} */
+
+.modal-footer button a{
+    color: white;
+    text-decoration: none;
+} 
+
+
+
+
+#color{
+    background-color:rgb(222, 228, 244)
+}
+
+#center{
+    text-align: center;
+    justify-content: space-around;
+}
+#blue{
+    background-color: rgb(2, 2, 99);
+}
+
+.text11{
+    font-size: 25px;
+}
+
+#alg{
+    justify-content: right;
+}
+#footer_color{
+    background-color:rgb(222, 228, 244) ;
+}
+
